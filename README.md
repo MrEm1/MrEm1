@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MrEm1
-- 👀 I’m interested in ... C and Python
-- 🌱 I’m currently learning ... Computer Science
-- 💞️ I’m looking to collaborate on ... Anything, I'm not that good tho
-- 📫 How to reach me ... MrEm#5018 on discord. 
+- 👀 I’m interested in ... AI language models.
+- 🌱 I’m currently learning ... GPT-3 API.
+- 💞️ I’m looking to collaborate on ... Nothing.
+- 📫 How to reach me ... reid.decillia@outlook.com
 
 <!---
 MrEm1/MrEm1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
